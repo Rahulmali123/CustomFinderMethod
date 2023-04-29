@@ -1,0 +1,2 @@
+# CustomFinderMethod
+NewRepository
